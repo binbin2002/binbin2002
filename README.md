@@ -10,7 +10,7 @@ I'm a undergraduate student in School of Remote Sensing and Information Engineer
 - 🌱 I’m currently learning modern C++,Python etc.
 - 🔭 My interesting field is computer vision& SLAM. Too unfamiliar with ML/DL to have interest at the point.
 - 📫 If you have any question, feel free to contact me.
-- 😄 Happy every day!
+- 😄 Have a nice day!
 
 
 
