@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I'm a undergraduate student in WHU from china.
+- 🌱 I’m currently learning modern C++,Python etc.
+- 🔭 My interesting field is computer vision& SLAM. Too unfamiliar with ML/DL to have interest at the point.
+- 😄 I'm very vegetable, please teach and help me! Best wish to you!!
 <!--
 **binbin2002/binbin2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
