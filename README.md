@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a undergraduate student in School of Remote Sensing and Information Engineering, Wuhan University, China.
+I'm a master student in School of Remote Sensing and Information Engineering, Wuhan University, China.
 
 
 <picture>
