@@ -7,7 +7,7 @@ I'm a master student in School of Remote Sensing and Information Engineering, Wu
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=binbin2002&show_icons=true">
 </picture>
 
-- 🌱 I’m currently learning modern C++,Python etc.
+- 🌱 I’m currently learning C++,Python etc.
 - 🔭 My interesting field is computer vision& SLAM. Too unfamiliar with ML/DL to have interest at the point.
 - 📫 If you have any question, feel free to contact me.
 - 😄 Have a nice day!
